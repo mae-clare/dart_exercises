@@ -1,0 +1,14 @@
+========================================
+      MOBILE LOAD TOP-UP RECEIPT        
+========================================
+Customer Name           : Juan Dela Cruz
+Top-Up Amount           : ₱150
+Rate per MB             : ₱1.25
+Loyalty Member Status   : true
+----------------------------------------
+Base Data Allocated     : 120.0 MB
+50-Peso GB Bundles      : 3 GB
+Remaining Credit Balance: ₱0\
+Qualifies for Bonus Data: true
+Earns Loyalty Perks     : true
+========================================
